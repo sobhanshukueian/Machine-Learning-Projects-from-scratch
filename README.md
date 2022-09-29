@@ -1,7 +1,7 @@
 # Machine-Learning-Projects-from-scratch
 This repo contains some machine learning algorithm's projects:
 
-* [Naive Bayes](https://github.com/sobhanshukueian/Machine-Learning-Projects-from-scratch#naive-bayes)
+* [Naive Bayes](#naive-bayes)
 
 ## Naive Bayes
 ### Bayes Theorem
